@@ -1,0 +1,617 @@
+/*First Form*/
+.a{
+    background-color: #E8F1FA;
+    width:500px;
+    height:500px;
+    padding-top:10px;
+    top:200px;
+    padding-left:80px;
+    float:left;
+}
+
+.b {
+    background-color: white;
+    width:400px;
+    height:410px;
+    padding-left:50px;
+    padding-top:50px;
+    float:left;
+}
+
+.img1 {
+    width: 120px;
+    height:120px;
+    padding-left:120px;
+    padding-top:10px;
+}
+
+.h1a {
+    color:black;
+    padding-left:70px;
+    padding-top: 0px;
+    font-size:20px;
+    font-style:bold;
+}
+
+.h2a {
+    color:grey;
+    padding-left:100px;
+    padding-top: 0px;
+    font-size:15px;
+    font-style:bold;
+}
+
+.tha1 {
+    position:absolute;
+    top:280px;
+    left:100px;
+}
+
+.tha2 {
+    position:absolute;
+    top:320px;
+    left:100px;
+}
+
+.tha3 {
+    position:absolute;
+    top:360px;
+    left:100px;
+}
+
+.tha4 {
+    position:absolute;
+    top:400px;
+    left:100px;
+}
+
+.tda1 {
+    position:absolute;
+    top:280px;
+    left:250px;
+    padding-left:100px;
+}
+
+.tda2 {
+    position:absolute;
+    top:320px;
+    left:250px;
+    padding-left:100px;
+}
+
+.tda3 {
+    position:absolute;
+    top:360px;
+    left:250px;
+    padding-left:100px;
+}
+
+.tda4 {
+    position:absolute;
+    top:400px;
+    left:250px;
+    padding-left:100px;
+}
+
+.tda5 {
+    position:absolute;
+    top:440px;
+    left:280px;
+}
+
+.forma {
+    font-size: 12px;
+}
+
+/*Second Form*/
+.c {
+    background-color: #4EACD4;
+    width:600px;
+    height:300px;
+    right:10px;
+    position:absolute;
+    padding:100px;
+    z-index:1;
+}
+
+.d {
+    background-color: rgb(255, 255, 255);
+    width:600px;
+    height:400px;
+    right:100px;
+    top:50px;
+    position:absolute;
+    z-index:2;
+    border-radius:10px;
+}
+
+.e {
+    background-color: rgb(70, 147, 180);
+    width:630px;
+    height:430px;
+    right:85px;
+    top:35px;
+    position:absolute;
+    z-index:1;
+    border-radius:10px;
+}
+
+.thb1 {
+    right:260px;
+    top:360px;
+    position:absolute;
+    z-index:4;
+    color:#545454;
+    font-size: 40px;
+}
+
+.tdb1 {
+    right:340px;
+    top:460px;
+    position:absolute;
+    z-index:4;
+    color:#545454;
+    font-size: 10px;
+}
+
+.tdb2 {
+    right:340px;
+    top:550px;
+    position:absolute;
+    z-index:4;
+    color:#545454;
+    font-size: 10px;
+}
+
+.tdb3 {
+    right:340px;
+    top:650px;
+    position:absolute;
+    z-index:4;
+    color:#545454;
+    font-size: 20px;
+}
+
+.checkboxa {
+    right:280px;
+    top:5px;
+    position:absolute;
+    z-index:4;
+}
+
+.login {
+    right:200px;
+    top:650px;
+    position:absolute;
+    z-index:4;
+    border-radius:10px;
+    background-color:rgb(200, 200, 238);
+}
+
+.password {
+    right:260px;
+    top:760px;
+    position:absolute;
+    z-index:4;
+    color:white;
+}
+
+.password a {
+     color:rgb(211, 209, 209);
+     text-decoration:none;
+}
+
+.line {
+    display: block;
+    background: #F2F5F7;
+    border-bottom: 2px solid #CFCFCF;
+    z-index:3;
+    border-radius:10px 10px 0 0;
+    position:absolute;
+    top:330px;
+    right:110px;
+    color:transparent;
+    font-size: 270px;
+    height:100px;
+}
+
+/*3rd Form*/
+
+.tablea {
+    top:900px;
+    position:absolute;
+    height: 200px;
+    width:800px;
+    left:10px;
+    background-color:rgb(127, 127, 238);
+    z-index:1;
+    padding-bottom:0px;
+}
+
+.thc1 {
+    position: absolute;
+    left:150px;
+    font-size:30px;
+    z-index:3;
+}
+
+.texta {
+    background-color:rgb(211, 210, 210);
+    padding:0px;
+    text-align:center;
+}
+
+.tdc1 {
+    position: absolute;
+    left:2px;
+    background-color:white;
+    padding:10px 713px 10px 10px;
+
+}
+
+.tdc2 {
+    position: absolute;
+    left:300px;
+    top:90px;
+    width:480px;
+    z-index:1;
+}
+
+.tdc3 {
+    position: absolute;
+    left:2px;
+    background-color:white;
+    padding:10px 713px 10px 10px;
+
+}
+
+.tdc4 {
+    position: absolute;
+    left:300px;
+    top:120px;
+    width:480px;
+    z-index:1;
+}
+
+.tdc5 {
+    position: absolute;
+    left:2px;
+    background-color:white;
+    padding:10px 713px 10px 10px;
+
+}
+
+.tdc6 {
+    position: absolute;
+    left:300px;
+    top:180px;
+    width:480px;
+    height:100px;
+    z-index:1;
+    overflow-y:auto;
+}
+
+.tdc7 {
+    position: absolute;
+    left:2px;
+    background-color:white;
+    padding:10px 713px 10px 10px;
+
+}
+
+.tdc8 {
+    position: absolute;
+    left:300px;
+    top:150px;
+    width:480px;
+    z-index:1;
+}
+
+/*Fourth Form*/
+
+.g {
+    top:1500px;
+    position:absolute;
+    height: 600px;
+    width:800px;
+    left:10px;
+    background-color:rgb(255, 255, 255);
+    border: 2px solid black;
+    z-index:1;
+    padding-bottom:0px;
+}
+
+.h {
+    top:-130px;
+    position:absolute;
+    height: 130px;
+    width:804px;
+    left:-2px;
+    background-color:rgb(75, 75, 75);
+    border: 2px solid black;
+    z-index:3;
+    padding-bottom:0px;
+}
+
+.tr1 {
+    position: absolute;
+    left:250px;
+    top: 80px;
+}
+
+.thd1 {
+    top: 10px;
+    position: absolute;
+    left: 10px;
+    font-size: 30px;
+}
+
+.thd2 {
+    top: 50px;
+    position: absolute;
+    left: 630px;
+    font-size: 15px;
+}
+
+.thd3 {
+    font-size:20px;
+    position: absolute;
+    left:20px;
+    top:40px;
+}
+
+.tr2 {
+    float:left;
+    position: absolute;
+    top: 60px;
+    height:300px;
+    width:200px;
+}
+
+.tdd1 {
+    position: absolute;
+    top: 30px; 
+    left: 50px;
+}
+
+.tdd3 {
+    position: absolute;
+    top: 60px; 
+    left: 50px;
+}
+
+.tdd5 {
+    position: absolute;
+    top: 90px; 
+    left: 50px;
+}
+
+.tdd7 {
+    position: absolute;
+    top: 120px; 
+    left: 50px;
+}
+
+.tdd9 {
+    position: absolute;
+    top: 150px; 
+    left: 50px;
+}
+
+.tdd11 {
+    position: absolute;
+    top: 190px; 
+    left: 50px;
+}
+
+.tdd13 {
+    position: absolute;
+    top: 220px; 
+    left: 50px;
+}
+
+.tdd15 {
+    position: absolute;
+    top: 280px; 
+    left: 50px;
+}
+
+.tdd2 {
+    position: absolute;
+    top: 30px; 
+    left: 200px;
+}
+
+.tdd4 {
+    position: absolute;
+    top: 60px; 
+    left: 200px;
+}
+
+.tdd6 {
+    position: absolute;
+    top: 90px; 
+    left: 200px;
+}
+
+.tdd8 {
+    position: absolute;
+    top: 120px; 
+    left: 200px;
+}
+
+.tdd10 {
+    position: absolute;
+    top: 160px; 
+    left: 200px;
+}
+
+.tdd12 {
+    position: absolute;
+    top: 190px; 
+    left: 200px;
+}
+
+.tdd14 {
+    position: absolute;
+    top: 230px; 
+    left: 200px;
+}
+
+.tdd16 {
+    position: absolute;
+    top: 280px; 
+    left: 200px;
+}
+
+.tr3 {
+    position: absolute;
+    top:400px;
+    left:200px;
+}
+
+.tdd19 {
+    position: absolute;
+    top: 550px;
+    left:340px;
+}
+
+/*Fifth Form*/
+
+.j {
+    top:2300px;
+    position:absolute;
+    height: 600px;
+    width:800px;
+    left:10px;
+    background-color:rgb(255, 255, 255);
+    border: 2px solid black;
+    padding-bottom:0px;
+}
+
+.the1 {
+    position: absolute;
+    top: 10px;
+    left:10px;
+    font-size:20px;
+}
+
+.tde1 {
+    position: absolute;
+    top: 50px;
+    left: 40px;
+}
+
+.tde2 {
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    width: 300px;
+}
+
+.tde3 {
+    position: absolute;
+    top: 110px;
+    left: 40px;
+}
+
+.tde4 {
+    position: absolute;
+    top: 140px;
+    left: 40px;
+    width: 300px;
+}
+
+.tde5 {
+    position: absolute;
+    top: 170px;
+    left: 40px;
+}
+
+.tde6 {
+    position: absolute;
+    top: 200px;
+    left: 40px;
+    width: 300px;
+}
+
+.tde7 {
+    position: absolute;
+    top: 230px;
+    left:40px;
+}
+
+.tde8 {
+    position: absolute;
+    top: 230px;
+    left:200px;
+}
+
+.tde9 {
+    position: absolute;
+    top: 270px;
+    left:40px;
+}
+
+.tde10 {
+    position: absolute;
+    top: 270px;
+    left:500px;
+}
+
+.tde11 {
+    position: absolute;
+    top: 290px;
+    left:40px;
+}
+
+.tde12 {
+    position: absolute;
+    top: 290px;
+    left:500px;
+}
+
+.tde13 {
+    position: absolute;
+    left:10px;
+    top:350px;
+    padding: 10px;
+}
+
+.tde14 {
+    position: absolute;
+    top:400px;
+    left:50px;
+}
+
+.tde15 {
+    position: absolute;
+    top:440px;
+    left:50px;
+}
+
+.tde16 {
+    position: absolute;
+    top:480px;
+    left:50px;
+}
+
+.tde17 {
+    position: absolute;
+    top:520px;
+    left:50px;
+}
+
+.tde18 {
+    position: absolute;
+    top: 340px;
+    left: 30px;
+}
+
+
+
+
+
+
+
+
